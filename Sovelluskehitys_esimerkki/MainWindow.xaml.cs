@@ -24,7 +24,7 @@ namespace Sovelluskehitys_esimerkki
     public partial class MainWindow : Window
     {
         private string solun_arvo;
-        string polku = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\k2103177\\OneDrive - Epedu O365\\koulutehtävät\\Sovelluskehitys\\Lopputyo_Roope_Koskinen\\Lopputyö.mdf\";Integrated Security=True;Connect Timeout=30";
+        string polku = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Roope\\OneDrive - Epedu O365\\koulutehtävät\\Valmiit kurssit\\Sovelluskehitys\\lopputyö_Roope_Koskinen\\tuotekanta.mdf\";Integrated Security=True;Connect Timeout=30";
         Tietokantatoiminnot tkt;
         public MainWindow()
         {
